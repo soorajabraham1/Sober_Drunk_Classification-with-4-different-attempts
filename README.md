@@ -19,6 +19,6 @@ On detailed analysis of the dataset, I came to know that there is a relation bet
 
 In the given dataset, peoplre tend to be more relaxed and happy on being drunk. so i thought of first extrating the emotions of the people and then try to classify them based on sober or drunk.
 
-for that I chose deepface a deep learning model by face book. I extrated the perentage of each emotions. so the output was a set of values for happy, angry, disgust ,sad,etc..
+for that I chose deepface a deep learning model by facebook. I extrated the perentage of each emotions. so the output was a set of values for happy, angry, disgust ,sad,etc..
 
 Now I used the logistic regression, random forest and gradient boost  to train based on the given datas. 
