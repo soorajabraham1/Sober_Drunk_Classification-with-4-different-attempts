@@ -1,5 +1,5 @@
 # Sober_Drunk_Classification-with-4-different-attempts
-Here I triedOto classify the faces of people based on sober or drunk.  ⧹  ⧹ 
+Here I tried to classify the faces of people based on sober or drunk.  ⧹  ⧹ 
 I compare different classifiation algorithms such as logistic regression, Random forest and Gradient Boost.
 In the first method, I diretly tried train using entire dataset without cleaning it.
 Seond I cleaned the dataset and tried to classify into 4 classes.
